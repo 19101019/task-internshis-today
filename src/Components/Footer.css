@@ -1,0 +1,277 @@
+.foot {
+    position: absolute;
+width: 1540px;
+height: 442px;
+left: 0px;
+top: 3110px; 
+background: #FBFBFB;
+}
+
+.text100 {
+    position: absolute;
+width: 205px;
+height: 108px;
+left: 59px;
+top: 150px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 35px;
+/* or 159% */
+
+
+color: #6C6C6C;
+}
+
+.text101 {
+    position: absolute;
+width: 145px;
+height: 39px;
+left: 375px;
+top: 50px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 31px;
+
+color: #000000;
+}
+
+.text102 {
+    position: absolute;
+    width: 145px;
+    height: 39px;
+    left: 610px;
+    top: 50px;
+    
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 31px;
+    
+    color: #000000;
+}
+.text103 {
+    position: absolute;
+    width: 145px;
+    height: 39px;
+    left: 873px;
+    top: 50px;
+    
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 31px;
+    
+    color: #000000;
+}
+.text104{
+    position: absolute;
+width: 145px;
+height: 39px;
+left: 375px;
+top: 100px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 26px;
+
+color: #6C6C6C;
+}
+.text105{
+    position: absolute;
+    width: 145px;
+    height: 39px;
+    left: 375px;
+    top: 150px;
+    
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 26px;
+    
+    color: #6C6C6C;
+}
+.text106{
+    position: absolute;
+    width: 145px;
+    height: 39px;
+    left: 375px;
+    top: 200px;
+    
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 26px;
+    
+    color: #6C6C6C;
+}
+.text107{
+    position: absolute;
+    width: 145px;
+    height: 39px;
+    left: 375px;
+    top: 250px;
+    
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 26px;
+    
+    color: #6C6C6C;
+    
+}
+.text108{
+    position: absolute;
+    width: 107px;
+    height: 39px;
+    left: 610px;
+    top: 100px;
+    
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 26px;
+    
+    color: #6C6C6C;
+}
+.text109{
+    position: absolute;
+    width: 145px;
+    height: 39px;
+    left: 610px;
+    top: 150px;
+    
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 26px;
+    
+    color: #6C6C6C;
+}
+.text1010{
+
+    position: absolute;
+    width: 145px;
+    height: 39px;
+    left: 610px;
+    top: 200px;
+    
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 26px;
+    
+    color: #6C6C6C;
+}
+.text1011{
+    position: absolute;
+    width: 145px;
+    height: 39px;
+    left: 610px;
+    top: 250px;
+    
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 26px;
+    
+    color: #6C6C6C;
+    
+}
+.text1012{
+    position: absolute;
+    width: 173px;
+    height: 39px;
+    left: 873px;
+    top: 100px;
+    
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 26px;
+    
+    color: #6C6C6C;
+}
+.text1013{
+    position: absolute;
+    width: 280px;
+    height: 39px;
+    left: 873px;
+    top: 150px;
+    
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 26px;
+    
+    color: #6C6C6C;
+}
+.text1014{
+    position: absolute;
+    width: 229px;
+    height: 39px;
+    left: 873px;
+    top: 200px;
+    
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 26px;
+    
+    color: #6C6C6C;
+}
+.text1015 {
+    position: absolute;
+width: 145px;
+height: 39px;
+left: 1192px;
+top: 50px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 31px;
+
+color: #000000;
+}
+.social-icon-link-twitter {
+    position: absolute;
+    left: 77.78%;
+    right: 14.31%;
+    top: 20.69%;
+    bottom: 70.12%;
+}
+.social-icon-link-facebook{
+    position: absolute;
+    left: 79.78%;
+    right: 14.31%;
+    top: 20.69%;
+    bottom: 70.12%;
+}
+.social-icon-link-instagram{
+    position: absolute;
+    left: 81.78%;
+    right: 14.31%;
+    top: 20.69%;
+    bottom: 70.12%;
+}
