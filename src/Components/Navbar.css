@@ -91,3 +91,9 @@ border-radius: 15px;
 .nav-img>img{
     max-height: 100%;
 }
+
+div.navbar{
+    display: flex;
+    flex-direction: flex-row;
+    flex-wrap: wrap;
+}
